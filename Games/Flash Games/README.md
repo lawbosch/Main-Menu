@@ -13,7 +13,7 @@ Although modern browsers no longer support Flash, you can still play `.swf` file
 
 ### **Method 1: Ruffle (Flash Player Emulator)**  
 
-1. Download the **Ruffle Desktop App** from [https://ruffle.rs/](https://ruffle.rs/).  
+1. Download the **Ruffle Desktop App** from [https://ruffle.rs/](https://ruffle.rs/). **(I also have the setup.msi file available in the diretory)**
 2. Open Ruffle and **drag & drop** the `.swf` file into the player.  
 
 ---
