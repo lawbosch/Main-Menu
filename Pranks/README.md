@@ -12,7 +12,7 @@ This repository contains a set of **batch and vbs scripts** designed for fun.
 
 💾 **CMD.bat** – Opens **Command Prompt indefinitely**, consuming RAM and potentially locking up the system.  
 
-🤡 **Idiot.bat** – Asks, *"Are you an idiot?"* and responds accordingly based on the input.  
+🤡 **Idiot.vbs** – Asks, *"Are you an idiot?"* and responds accordingly based on the input.  
 
 🔒 **Locker.bat** – Creates a **secure folder** named `Locker`:  
 - Add files inside.  
@@ -21,7 +21,7 @@ This repository contains a set of **batch and vbs scripts** designed for fun.
 
 🟢 **Matrix.bat** – A **terrible** attempt to simulate the **Matrix Rain Effect** in the command prompt.  
 
-👻 **Messages.bat** – **Fake hacking alert** that makes it seem like your computer is under attack.  
+👻 **Messages.vbs** – **Fake hacking alert** that makes it seem like your computer is under attack.  
 
 ---
 
