@@ -35,5 +35,6 @@ Once you confirm your choices:
 ## ⚠ **Important Notes**  
 - **Make sure your USB drive has at least 8GB of space** (if using USB).   
 - **Your system may restart multiple times if upgrading**.
+- **This is not mine, i just want to share it**
 
 🚀 **Now you're ready to install Windows using MediaCreationTool.bat!**  
